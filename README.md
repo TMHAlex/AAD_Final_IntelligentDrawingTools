@@ -3,9 +3,6 @@ AAD_Final_IntelligentDrawingTools
 
 # Team Name : 孫android
   
-# AAD_Final_IntelligentDrawingTools
-AAD_Final_IntelligentDrawingTools
-
 ### List of tools , Libraries , Platforms  
   
 1.繪圖板、照相、網路連線  
