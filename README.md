@@ -1,7 +1,9 @@
 # AAD_Final_IntelligentDrawingTools
 AAD_Final_IntelligentDrawingTools
-
-# Team Name : 孫android
+  
+  
+## Team Name : 孫android
+## Team Project : Intelligent Drawing Tools
   
 ### List of tools , Libraries , Platforms  
   
