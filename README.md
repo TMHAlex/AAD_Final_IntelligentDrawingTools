@@ -1,6 +1,7 @@
 # AAD_Final_IntelligentDrawingTools
 AAD_Final_IntelligentDrawingTools
-  
+
+# Team Name : 孫android
   
 # AAD_Final_IntelligentDrawingTools
 AAD_Final_IntelligentDrawingTools
@@ -20,7 +21,7 @@ AAD_Final_IntelligentDrawingTools
 協作程式UI設計、程式整合、拍照功能圖片處理、image classification Inception V4處理、尋找Google Server連線端口設定、協作HTTPS連線功能設計。  
   
 ##### P76071381 林晉昇 :
-協作HTTPS連線功能設計、期末報告撰寫、影片錄製。  
+協作HTTPS連線功能設計、期末Slider撰寫、影片錄製。  
   
 ##### Q56071045 周東誼 :
 HTTPS連線功能設計、繪圖板參數轉換、協作期末報告、協作影片錄製。  
