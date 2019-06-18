@@ -1,6 +1,7 @@
 # AAD_Final_IntelligentDrawingTools
 AAD_Final_IntelligentDrawingTools
   
+## APK File Location : AAD_Final_IntelligentDrawingTools/release/  
   
 ## Team Name : 孫android
 ## Team Project : Intelligent Drawing Tools
